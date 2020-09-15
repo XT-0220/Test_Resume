@@ -9,8 +9,8 @@ class bike:
 #创建对象
 BM = bike(2, "green")
 
-print("color:%s" %BM.color)
-print("wheelNum:%s" %BM.wheelNum)
+print("color:%s" % BM.color)
+print("wheelNum:%s" % BM.wheelNum)
 
 
 class A:
