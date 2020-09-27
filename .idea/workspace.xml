@@ -1,63 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8fbe790-eac7-41af-be44-2bf7136312e9" name="Default" comment="Resume">
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/27-去除收尾空格.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/28-sort和sorted对列表排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/29-使用lambda函数从小到大排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/30-使用lambda函数对list排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/31-列表嵌套字典的排序，分别根据年龄和姓名排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/32-列表嵌套元组，分别按字母和数字排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/33-根据键对字典排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/34-列表推导式、字典推导式、生成器.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/35-根据字符串长度排序，看排序是否灵活运用.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/36-用正则切分字符串输出['i'].py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/37-正则匹配以163.com结尾的邮箱.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/38-递归求和.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/39-字符串转化大小写.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/40-用两种方法去空格.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/41-正则匹配不是以4和7结尾的手机号.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/42-正则表达式匹配第一个URL.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/43-生成0-100的随机数.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/44-lambda匿名函数好处.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/Test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/110/闭包.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/True Resume/01-修改以下Python代码，使得下面的代码调用类A的show方法.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/True Resume/02-修改以下Python代码，使得代码能够运行.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/True Resume/03- 下面这段代码的输出是什么？.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/True Resume/04-如何添加代码，使得没有定义的方法都调用myfunc方法？.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/True Resume/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/socket编程/01-互斥锁.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/socket编程/02-死锁.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/socket编程/__init__.py" />
+    <list default="true" id="c8fbe790-eac7-41af-be44-2bf7136312e9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" afterPath="$PROJECT_DIR$/110/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" />
-      <change beforePath="$PROJECT_DIR$/02-__new__和__init__区别.py" afterPath="$PROJECT_DIR$/110/02-__new__和__init__区别.py" />
-      <change beforePath="$PROJECT_DIR$/03-python中生成随机整数、随机小数、0--1之间小数方法.py" afterPath="$PROJECT_DIR$/110/03-python中生成随机整数、随机小数、0--1之间小数方法.py" />
-      <change beforePath="$PROJECT_DIR$/04-去重并从小到大排序输出.py" afterPath="$PROJECT_DIR$/110/04-去重并从小到大排序输出.py" />
-      <change beforePath="$PROJECT_DIR$/05-用lambda函数实现两个数相乘.py" afterPath="$PROJECT_DIR$/110/05-用lambda函数实现两个数相乘.py" />
-      <change beforePath="$PROJECT_DIR$/06-字典根据键从小到大排序.py" afterPath="$PROJECT_DIR$/110/06-字典根据键从小到大排序.py" />
-      <change beforePath="$PROJECT_DIR$/07-统计字符串每个单词出现的次数.py" afterPath="$PROJECT_DIR$/110/07-统计字符串每个单词出现的次数.py" />
-      <change beforePath="$PROJECT_DIR$/08-正则过滤掉英文和数字.py" afterPath="$PROJECT_DIR$/110/08-正则过滤掉英文和数字.py" />
-      <change beforePath="$PROJECT_DIR$/09-filter方法求出列表所有奇数并构造新列表.py" afterPath="$PROJECT_DIR$/110/09-filter方法求出列表所有奇数并构造新列表.py" />
-      <change beforePath="$PROJECT_DIR$/10-列表推导式求列表所有奇数并构造新列表.py" afterPath="$PROJECT_DIR$/110/10-列表推导式求列表所有奇数并构造新列表.py" />
-      <change beforePath="$PROJECT_DIR$/11-两个列表[1,5,7,9]和[2,2,6,8]合并为[1,2,2,3,6,7,8,9].py" afterPath="$PROJECT_DIR$/110/11-两个列表[1,5,7,9]和[2,2,6,8]合并为[1,2,2,3,6,7,8,9].py" />
-      <change beforePath="$PROJECT_DIR$/12-写一段自定义异常代码.py" afterPath="$PROJECT_DIR$/110/12-写一段自定义异常代码.py" />
-      <change beforePath="$PROJECT_DIR$/13-[[1,2],[3,4],[5,6]]一行代码展开该列表，得出[1,2,3,4,5,6].py" afterPath="$PROJECT_DIR$/110/13-[[1,2],[3,4],[5,6]]一行代码展开该列表，得出[1,2,3,4,5,6].py" />
-      <change beforePath="$PROJECT_DIR$/14-分别求出x.join(y)和x.join(z)返回的结果.py" afterPath="$PROJECT_DIR$/110/14-分别求出x.join(y)和x.join(z)返回的结果.py" />
-      <change beforePath="$PROJECT_DIR$/15-异常模块中try except else finally的相关意义.py" afterPath="$PROJECT_DIR$/110/15-异常模块中try except else finally的相关意义.py" />
-      <change beforePath="$PROJECT_DIR$/16-python中交换两个数值.py" afterPath="$PROJECT_DIR$/110/16-python中交换两个数值.py" />
-      <change beforePath="$PROJECT_DIR$/17-zip（）函数用法.py" afterPath="$PROJECT_DIR$/110/17-zip（）函数用法.py" />
-      <change beforePath="$PROJECT_DIR$/18-用re.sub，将98替换为100.py" afterPath="$PROJECT_DIR$/110/18-用re.sub，将98替换为100.py" />
-      <change beforePath="$PROJECT_DIR$/19-编码成bytes类型.py" afterPath="$PROJECT_DIR$/110/19-编码成bytes类型.py" />
-      <change beforePath="$PROJECT_DIR$/20-[1,2,3]+[4,5,6]的结果是多少？.py" afterPath="$PROJECT_DIR$/110/20-[1,2,3]+[4,5,6]的结果是多少？.py" />
-      <change beforePath="$PROJECT_DIR$/21-正则匹配，匹配日期2018-03-20.py" afterPath="$PROJECT_DIR$/110/21-正则匹配，匹配日期2018-03-20.py" />
-      <change beforePath="$PROJECT_DIR$/22-从小到大排序，不许用sort，输出[2,3,4,5,6,9].py" afterPath="$PROJECT_DIR$/110/22-从小到大排序，不许用sort，输出[2,3,4,5,6,9].py" />
-      <change beforePath="$PROJECT_DIR$/23-保留两位小数.py" afterPath="$PROJECT_DIR$/110/23-保留两位小数.py" />
-      <change beforePath="$PROJECT_DIR$/24-求三个方法打印结果.py" afterPath="$PROJECT_DIR$/110/24-求三个方法打印结果.py" />
-      <change beforePath="$PROJECT_DIR$/25-pop和del删除字典中的name字段.py" afterPath="$PROJECT_DIR$/110/25-pop和del删除字典中的name字段.py" />
-      <change beforePath="$PROJECT_DIR$/26-copy()和deepcopy().py" afterPath="$PROJECT_DIR$/110/26-copy()和deepcopy().py" />
+      <change beforePath="$PROJECT_DIR$/110/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" afterPath="$PROJECT_DIR$/110/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,8 +65,8 @@
       <file leaf-file-name="01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/110/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="297">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -141,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-python中生成随机整数、随机小数、0--1之间小数方法.py" />
         <option value="$PROJECT_DIR$/06-字典根据键从小到大排序.py" />
         <option value="$PROJECT_DIR$/07-统计字符串每个单词出现的次数.py" />
         <option value="$PROJECT_DIR$/08-正则过滤掉英文和数字.py" />
@@ -192,6 +137,7 @@
         <option value="$PROJECT_DIR$/110/44-lambda匿名函数好处.py" />
         <option value="$PROJECT_DIR$/110/Test.py" />
         <option value="$PROJECT_DIR$/110/闭包.py" />
+        <option value="$PROJECT_DIR$/110/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" />
       </list>
     </option>
   </component>
@@ -224,14 +170,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Test_Resume" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_Resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test_Resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test_Resume" type="462c0819:PsiDirectoryNode" />
+              <item name="socket编程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -434,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600430524115</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Resume">
+      <created>1601193687189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601193687189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -442,12 +400,12 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33107343" sideWeight="0.50966185" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33072627" sideWeight="0.50966185" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3273743" sideWeight="0.49033818" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49830508" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25214592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25590128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -825,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/110/01-列表[1,2,3,4,5],请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="297">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>

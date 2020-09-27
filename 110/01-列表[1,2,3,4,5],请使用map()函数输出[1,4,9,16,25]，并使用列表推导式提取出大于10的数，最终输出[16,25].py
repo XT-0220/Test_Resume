@@ -9,3 +9,7 @@ def fn(x):
 res = map(fn , list)
 res = [i for i in res if i > 10]
 print(res)
+
+
+
+
